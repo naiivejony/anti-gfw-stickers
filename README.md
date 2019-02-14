@@ -9,3 +9,5 @@ Inspired by [this project](http://www.skinat.com/product/7787/default.aspx)([arc
 Further reading:
 - [*Great Firewall*](https://en.wikipedia.org/wiki/Great_Firewall)
 - [*Internet censorship in China*](https://en.wikipedia.org/wiki/Internet_censorship_in_China)
+
+ Copyright © 2019 naiivejony
